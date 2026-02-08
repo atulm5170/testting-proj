@@ -1,5 +1,5 @@
-# New testing Projects By Atul Mishra..
+# New learning projects By Atul Mishra..
 
-# so lets done it together!!
+# aur bhai kya ho rha hai
 
 # by HTML,CSS and JAVASCRIPT
